@@ -25,3 +25,8 @@ sentence-transformers
 
 passlib
 mistral_api
+
+
+torch
+triton
+nvidia-*
