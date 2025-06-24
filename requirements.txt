@@ -27,6 +27,6 @@ passlib
 mistral_api
 
 
-torch
-triton
-nvidia-*
+torch==2.0.1+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+
