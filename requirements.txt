@@ -1,0 +1,27 @@
+# Web frameworks
+fastapi
+streamlit
+uvicorn
+
+# Database
+sqlalchemy
+psycopg2-binary
+pgvector
+
+# Auth & Security
+python-dotenv
+python-multipart
+passlib[bcrypt]
+python-jose
+
+# File & PDF
+pandas
+PyMuPDF
+python-docx
+
+# Embeddings / NLP
+sentence-transformers
+
+
+passlib
+mistral_api
