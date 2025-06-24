@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = {YOUR_MISTRAL_API}
+API_KEY = "a4Cuk8IlEzJHgJJoRMaZgj33FLTKTZTv"
 API_URL = "https://api.mistral.ai/v1/chat/completions"
 HEADERS = {
     "Authorization": f"Bearer {API_KEY}",
