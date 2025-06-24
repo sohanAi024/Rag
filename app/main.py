@@ -11,7 +11,7 @@ from .embedding import chunk_text, get_embedding
 from .mistral_api import ask_mistral
 from .auth import create_access_token, get_current_user
 
-import fitz  # PyMuPDF
+import fitz
 import pandas as pd
 import os
 import logging
