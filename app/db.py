@@ -8,7 +8,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-DATABASE_URL = "postgresql+psycopg2://user:password@localhost/dbname"
+DATABASE_URL = {YOUR_DB_URL}
 
 # Create engine with connection pooling
 engine = create_engine(
